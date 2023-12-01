@@ -10,7 +10,6 @@ function NavBar() {
             <li><a href="#projects">Descargar CV</a></li>
         </ul>
     </div>
-            
     )
   }
   
